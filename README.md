@@ -9,9 +9,25 @@
   <a href="mailto:yvk9@outlook.com">
     <img src=https://img.shields.io/badge/Outlook-blue?logo=outlook&logoColor=white alt="Outlook Badge"/>   
   </a>
-</div>  
+</div> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvk3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  
+</div>
+
+
+
+
 <!--
 **yvk3/yvk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![codewars](https://www.codewars.com/users/yvk3/badges/small)](https://www.codewars.com/users/yvk3) 
 
 Here are some ideas to get you started:
 
