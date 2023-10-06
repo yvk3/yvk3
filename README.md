@@ -1,5 +1,15 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">Hi there, I'm Yuri</h1> 
+</div>
+<div id="badges" align="center"> 
+  <a href="https://t.me/yurikuz9">
+    <img src=https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white alt="Telegram Badge"/>
+  </a>  
+  <a href="mailto:yvk9@outlook.com">
+    <img src=https://img.shields.io/badge/Outlook-blue?logo=outlook&logoColor=white alt="Outlook Badge"/>   
+  </a>
+</div>  
 <!--
 **yvk3/yvk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
